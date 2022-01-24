@@ -1,40 +1,12 @@
-# 😅Description
+# 😅简介
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+请描述该PR所涉及的代码和功能性上的调整以及修复的问题。
 
-Fixes # (issue)
+修复 # (issue)
 
-# 😅Type of change
+# 😅涉及的修改类型
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
-
-# 😅How Has This Been Tested?
-
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
-
-- [ ] Test A
-- [ ] Test B
-
-# 😅What kind platform are you used to test?
-
-OS Version: 
-CPU architecture:  
-CPU: 
-GPU: 
-Python Version: 
-
-
-# 😅Checklist:
-
-- [ ] My code follows the style guidelines of this project (PEP8)
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented on my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
-
+- [ ] 内容修改 (解决文档知识性内容的的非重大更改)
+- [ ] 网页技术性修改 (解决网页技术性内容的的非重大更改)
+- [ ] 添加新内容 (对文档添加了新的内容)
+- [ ] 其他 (请在下方详细说明)
