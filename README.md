@@ -3,3 +3,4 @@ Group member:
 1. william Yuan
 2. lloyd Huang
 3. Linus Zuo
+4. Alex Wang
