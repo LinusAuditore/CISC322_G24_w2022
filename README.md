@@ -1,6 +1,6 @@
 # CISC-324-G24-Webpage-2022w
-Group member:
-1. william Yuan
-2. lloyd Huang
+Group members:
+1. William Yuan
+2. Lloyd Huang
 3. Linus Zuo
 4. Alex Wang
